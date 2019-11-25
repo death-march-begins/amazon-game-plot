@@ -2,7 +2,7 @@
 
 ## Preprocess
 
- **run** : *produk-feq.py dirData OutputName*
+ **run** : ***produk-feq.py** dirData OutputName*
 
 Menghitung review untuk masing2 produk, dan memberikan skor pada produk berdasarkan total review dan ratingnya
 contoh data :
@@ -19,7 +19,7 @@ contoh data :
   
 ## Plotting Histogram
 
-  **run** : *rank-game.py score.json*
+  **run** : ***rank-game.py** score.json*
   
 Melakukan plotting dalam bentuk histogram dari data yang sudah diproses sebelunya dalam bentuk Histogram
 

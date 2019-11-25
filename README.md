@@ -23,4 +23,5 @@ contoh data :
   
 Melakukan plotting dalam bentuk histogram dari data yang sudah diproses sebelunya dalam bentuk Histogram
 
+![alt text](http://url/to/img.png)
   

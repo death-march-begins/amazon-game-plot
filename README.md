@@ -22,6 +22,7 @@ contoh data :
   **run** : ***rank-game.py** score.json*
   
 Melakukan plotting dalam bentuk histogram dari data yang sudah diproses sebelunya dalam bentuk Histogram
+![alt text](https://github.com/death-march-begins/amazon-game-plot/blob/master/image/histogram.png)
 
 
   

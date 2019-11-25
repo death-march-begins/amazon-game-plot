@@ -23,5 +23,5 @@ contoh data :
   
 Melakukan plotting dalam bentuk histogram dari data yang sudah diproses sebelunya dalam bentuk Histogram
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/death-march-begins/amazon-game-plot/blob/master/image/Screenshot%20from%202019-11-25%2007-54-26.png)
   
